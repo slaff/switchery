@@ -1,5 +1,5 @@
 #include <SmingCore.h>
-#include "ConfigManager/include/ConfigManager.h"
+#include <ConfigManager.h>
 
 #define MODE "AP"
 #define WIFI_NAME "switchery"

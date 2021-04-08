@@ -1,0 +1,8 @@
+{
+	"mode": "AP",
+	"ssid": "switchery",
+	"hostname": "switchery",
+	"defaultPage": "index.html",
+	"configPage": "config.html",
+	"otaAuthHash": "3a4cd41426666fcbaa21e528c4c0398c"
+}

@@ -1,0 +1,14 @@
+# Sming
+out
+
+# development
+GTAGS
+GRTAGS
+GPATH
+GSYMS
+
+.vscode
+Makefile-user.mk
+
+# local secrets
+secrets.*
